@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta charset="utf-8">
+<title>Join us @ Clippings.com</title>
+<link rel="stylesheet" href="node_modules/reveal.js/css/reveal.css">
+<link rel="stylesheet" href="node_modules/reveal.js/css/theme/white.css">
+<meta name="description" content="Presentation of Clippings.com at a startup job fair. Learn more about our culture and why you should join us.">
+<meta name="author" content="Haralan Dobrev">
+<link rel="license" href="LICENSE">
+<link rel="author" href="mailto:harry@clippings.com">
+<meta property="og:title" content="Join us @ Clippings.com">
+<meta property="og:type" content="article">
+<meta property="og:description" content="Presentation of Clippings.com at a startup job fair. Learn more about our culture and why you should join us.">
+<meta property="og:url" content="https://clippings.github.io/join-us">
+<meta property="article:author" content="https://www.facebook.com/ClippingsDesign">
+<meta property="article:publisher" content="https://www.facebook.com/ClippingsDesign">
+<meta property="article:published_time" content="2016-11-12T13:30:00+02:00">
+<meta property="article:section" content="Talks">
+<meta property="og:locale" content="en_GB">
+<meta property="og:see_also" content="https://clippings.github.io">
+<meta property="og:see_also" content="https://clippings.com">
+<meta property="fb:profile_id" content="ClippingsDesign">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@ClippingsDesign">
+<meta name="twitter:creator" content="@ClippingsDesign">
+<meta name="twitter:url" content="https://clippings.github.io/join-us">
+<meta name="twitter:title" content="Why you should join Clippings.com">
+<meta name="twitter:description" content="Presentation of Clippings.com at a startup job fair. Learn more about our culture and why you should join us.">
+<style>
+    .reveal .h1 {
+        font-size: 2.5em;
+    }
+    .reveal .h2 {
+        font-size: 1.6em;
+    }
+    .reveal .h3 {
+        font-size: 1.3em;
+    }
+    .reveal .h4 {
+        font-size: 0.9em;
+    }
+    .reveal section img {
+        border: 0;
+        box-shadow: none;
+    }
+</style>
+</head>
+<body>
+<div class="reveal">
+    <div class="slides">
+        <section>
+            <h1>
+                <img src="./clippings_logo.svg" alt="Clippings logo">
+            </h1>
+            <h2 class="h3">Redesigning&nbsp;the&nbsp;design&nbsp;industry</h2>
+        </section>
+        <section>
+            <h2 class="h3">
+                The marketplace to discover
+                and buy furniture directly from the brands
+            </h2>
+        </section>
+        <section>
+            <img src="./broken-industry.png" alt="The industry is broken and messy" style="max-width: 100%; max-height: 100%">
+        </section>
+        <section>
+            <img src="./go-to-destination.png" alt="Diagram of Clippings business model" style="max-width: 100%; max-height: 100%">
+        </section>
+        <section>
+            <h2>Startups fail</h2>
+        </section>
+        <section>
+            <h2>Success</h2>
+        </section>
+        <section>
+            <img src="./growth.png" alt="Growth graphic by quarters" style="max-width: 100%; max-height: 100%">
+        </section>
+        <section>
+            <h2 class="h4">We have the fastest growing catalog&nbsp;in&nbsp;the&nbsp;industry</h2>
+            <img src="./catalog.png" alt="Size of our catalog in numbers" style="max-width: 100%; max-height: 100%">
+        </section>
+        <section>
+            <img src="./clippings-competition.png" alt="Clippings compared to competitors" style="max-width: 100%; max-height: 100%">
+        </section>
+        <section>
+            <img src="./funding.png" alt="Clippings funding rounds" style="max-width: 100%; max-height: 100%">
+        </section>
+        <section>
+            <h2>Why should you join Clippings?</h2>
+        </section>
+        <section>
+            <h2>Culture</h2>
+        </section>
+        <section>
+            <h2>Open-source</h2>
+        </section>
+        <section>
+            <h2>Events</h2>
+        </section>
+        <section>
+            <h2>Growth</h2>
+        </section>
+        <section>
+            <h2>Impact</h2>
+        </section>
+        <section>
+            <h2>Process</h2>
+        </section>
+        <section>
+            <h2>Technology</h2>
+        </section>
+        <section>
+            <h2>
+                <a href="https://clippings.github.io/join-us">clippings.github.io/join-us</a>
+            </h2>
+        </section>
+    </div>
+</div>
+<div id="footer" style="position: fixed; bottom: 50px; left: 50px">
+    <img src="./clippings_logo.svg" alt="Clippings logo" style="width: 250px">
+</div>
+<script src="node_modules/reveal.js/lib/js/classList.js"></script>
+<script src="node_modules/reveal.js/lib/js/head.min.js"></script>
+<script src="node_modules/reveal.js/js/reveal.js"></script>
+<script src="node_modules/reveal.js/plugin/notes/notes.js"></script>
+<script>
+    var gaPropertyID = 'UA-9096220-8';
+    Reveal.initialize({
+        history: true,
+        controls: false,
+        progress: false
+    });
+    var footer = document.getElementById('footer');
+    if (0 === Reveal.getIndices().h) {
+        footer.style.display = 'none';
+    }
+    Reveal.addEventListener('slidechanged', function(event) {
+        console.log(event)
+        if (0 === event.indexh) {
+            footer.style.display = 'none';
+        } else {
+            footer.style.display = 'block';
+        }
+    });
+</script>
+<script src="node_modules/reveal-ga/dist/reveal-ga.min.js"></script>
+</body>
+</html>

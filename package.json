@@ -1,0 +1,16 @@
+{
+  "name": "@hkdobrev/open-source-talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "author": "Haralan Dobrev",
+  "license": "MIT",
+  "dependencies": {
+    "reveal.js": "^3.3.0",
+    "reveal-ga": "^0.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1"
+  }
+}

@@ -32,7 +32,7 @@ What do we offer?
 - Exceptional transparency, freedom and the opportunity to develop your skills/knowledge
 - Competitive salary &amp; share options
 - Flexible working hours &amp; possibility for remote work
-- Top equipment: Apple MacBook Pro, Herman Miller chair
+- Top equipment: [Apple MacBook Pro](https://www.apple.com/macbook-pro/), [Herman Miller chair](http://store.hermanmiller.com/office/office-chairs/mirra-2-task-chair/1453.html)
 
 How to apply?
 -------------

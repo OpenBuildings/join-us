@@ -14,8 +14,8 @@ We're looking for
   * Doctrine ORM
   * React.JS
   * eCommerce platforms
-  * On-site SEO -
-  * Basic Linux administration -
+  * On-site SEO
+  * Basic Linux administration
   * Knowledge of SOLID design principles
 
 Responsibilities

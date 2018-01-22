@@ -1,6 +1,12 @@
 Software engineer
 =================
 
+We're looking for more engineers to join our product team
+and help us revolutinise the design industry.
+
+We have 2 teams - _Demand_ and _Supply_ focusing on
+growth and catalogue/operations of the business respectively.
+
 We're looking for
 -----------------
 
@@ -10,13 +16,13 @@ We're looking for
 - Initiative for improving processes, codebase and implementing new techniques
 - Very good English - speaking and writing
 - It would be an advantage to have experience with:
-  * Symfony framework &amp; components
-  * Doctrine ORM
-  * React.JS
-  * eCommerce platforms
-  * On-site SEO -
-  * Basic Linux administration -
-  * Knowledge of SOLID design principles
+    * Symfony framework &amp; components
+    * Doctrine ORM
+    * React.JS
+    * eCommerce platforms
+    * On-site SEO
+    * Basic Linux administration
+    * Knowledge of SOLID design principles
 
 Responsibilities
 ----------------

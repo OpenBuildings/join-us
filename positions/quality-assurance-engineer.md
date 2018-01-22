@@ -1,6 +1,12 @@
 Quality Assurance Engineer
 ==========================
 
+We are looking to hire our first engineer responsible for automated testing and quality assurance.  
+Our current test harness consists of automated unit, integration and acceptance tests
+currently developed by the product engineering team.
+The role of the quality assurance engineer would be to extend the test harness
+and manage the process of reporting and reducing the issues with the product.
+
 We're looking for
 -----------------
 

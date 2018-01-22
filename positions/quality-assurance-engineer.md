@@ -13,8 +13,12 @@ We're looking for
 - 2+ years of experience in quality assurance
 - 1+ year of experience with automated testing
 - Experience with PHP & JavaScript
-- Excellent English
-- Experience with BDD, Behat, PHPUnit &amp; continuous delivery is a plus
+- Excellent English - speaking and writing
+- It would be an advantage to have experience with:
+    * BDD
+    * Behat
+    * PHPUnit
+    * Continuous delivery
 
 Responsibilities
 ----------------

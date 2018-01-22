@@ -10,13 +10,13 @@ We're looking for
 - Initiative for improving processes, codebase and implementing new techniques
 - Very good English - speaking and writing
 - It would be an advantage to have experience with:
-  * Symfony framework &amp; components
-  * Doctrine ORM
-  * React.JS
-  * eCommerce platforms
-  * On-site SEO
-  * Basic Linux administration
-  * Knowledge of SOLID design principles
+    * Symfony framework &amp; components
+    * Doctrine ORM
+    * React.JS
+    * eCommerce platforms
+    * On-site SEO
+    * Basic Linux administration
+    * Knowledge of SOLID design principles
 
 Responsibilities
 ----------------

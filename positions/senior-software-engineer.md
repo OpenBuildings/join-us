@@ -11,13 +11,13 @@ We're looking for
 - Ability to implement new functionality from start to finish
 - Initiative for improving processes, codebase and implementing new techniques
 - Excellent English - speaking and writing
-- Nice to have experience with:
-  * Symfony framework & components
-  * Doctrine ORM
-  * React.JS
-  * Ecommerce platforms
-  * On-site SEO
-  * Basic Linux administration
+- It would be an advantage to have experience with:
+    * Symfony framework & components
+    * Doctrine ORM
+    * React.JS
+    * Ecommerce platforms
+    * On-site SEO
+    * Basic Linux administration
 
 
 Responsibilities

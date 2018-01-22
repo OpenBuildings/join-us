@@ -12,7 +12,7 @@ Here are our currently open engineering positions:
 - [Senior Software Engineer](positions/senior-software-engineer.md#readme)
 - [Quality Assurance Engineer](positions/quality-assurance-engineer.md#readme)
 
-All of the above positions are based in [Sofia, Bulgaria](https://goo.gl/maps/3N6vWKagChG2).
+All of the above positions are based in [Sofia, Bulgaria](locations/sofia.md).
 
 See all of our open positions including non-technical ones [on the Clippings website](https://clippings.com/page/careers).
 
@@ -38,3 +38,9 @@ How to apply?
 -------------
 
 Please drop us an email at [jobs@clippings.com](mailto:jobs@clippings.com) with your CV or LinkedIn profile.
+
+Locations
+---------
+
+- [Sofia, Bulgaria](locations/sofia.md)
+- [London, United Kingdom](locations/london.md)

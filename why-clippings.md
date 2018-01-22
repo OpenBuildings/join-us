@@ -40,6 +40,15 @@ to Postmark, Algolia, MailChimp, Guzzle, OmniPay and more.
 You could see some of our open-source repositories at [https://github.com/clippings](https://github.com/clippings)
 and [https://github.com/openbuildings](https://github.com/openbuildings).
 
+### Technology
+
+We try to use the best tool for the job and always welcome the introduction of
+new technologies when they make sense for our needs.
+
+Read more about [the technology we use at Clippings](technology.md).
+
+See our [tech stack on StackShare](https://stackshare.io/clippings/clippings).
+
 ---
 
 See [our open positions](readme.md#open-positions).

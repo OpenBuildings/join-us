@@ -1,4 +1,4 @@
-Join Clippings
+Join Clippings [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/clippings-com/clippings-com)
 ==============
 
 Join a fast growing startup redesigning the design industry.

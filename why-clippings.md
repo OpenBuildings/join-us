@@ -21,7 +21,7 @@ Read [more about Clippings and our philosophy](https://clippings.com/about).
 
 ### The team
 
-You would be working with highly-engaged team of developers.
+You would be working with highly engaged team of developers.
 We always try to learn new technologies, incorporate the latest best practices and try new things.
 
 We realise everybody has their strong and weak sides and we would help you

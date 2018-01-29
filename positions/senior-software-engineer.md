@@ -20,7 +20,7 @@ We're looking for
 - It would be an advantage to have experience with:
     * Symfony framework & components
     * Doctrine ORM
-    * React.JS
+    * React
     * Ecommerce platforms
     * On-site SEO
     * Basic Linux administration

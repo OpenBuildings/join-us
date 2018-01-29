@@ -18,7 +18,7 @@ We're looking for
 - It would be an advantage to have experience with:
     * Symfony framework &amp; components
     * Doctrine ORM
-    * React.JS
+    * React
     * eCommerce platforms
     * On-site SEO
     * Basic Linux administration

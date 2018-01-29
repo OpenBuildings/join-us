@@ -8,7 +8,7 @@ See our [full stack of technologies we use at Clippings on StackShare](https://s
 
 We mostly use PHP and JavaScript. We try to use new language features as they become available.  
 New PHP code uses Silex and Symfony components.  
-New JavaScript code relies on ES6, ReactJS and jQuery.
+New JavaScript code relies on ES6, React and jQuery.
 
 Applications
 ------------
@@ -22,7 +22,7 @@ It consists of several different parts:
 - Trade platform on top
 - Store manager for the brands to manage their catalogue and orders
 - Admin for our internal teams
-- ReactJS front-end app for project management
+- React front-end app for project management
 - REST API for React front-end
 - CLI commands and automatic jobs
 

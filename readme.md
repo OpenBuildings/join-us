@@ -39,6 +39,13 @@ How to apply?
 
 Please drop us an email at [jobs@clippings.com](mailto:jobs@clippings.com) with your CV or LinkedIn profile.
 
+Interview process
+-----------------
+
+We do a screening and a technical interview. We might ask for some recent code you've written.
+
+Read more about [the interview process at Clippings](interview-process.md).
+
 Technology we use
 -----------------
 

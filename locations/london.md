@@ -14,14 +14,6 @@ Directions
 1. 4 floors up
 1. Clippings office through the corridor on the right
 
-<!--
-Media
------
-
-TODO: Add images of the office
-
--->
-
 Teams
 -----
 

@@ -15,14 +15,6 @@ Directions
 1. Ring the doorbell on the black door
 1. We are the first office at the floor
 
-<!--
-Media
------
-
-TODO: Add images of the office
-
--->
-
 Teams
 -----
 

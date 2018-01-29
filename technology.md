@@ -26,7 +26,7 @@ It consists of different parts:
 - REST API for React front-end
 - CLI commands and automatic jobs
 
-This is developed as a single application split by entry points and domains.
+We develop it as a single application split by entry points and domains.
 When possible we would extract some of the application code in a stand-alone open-source library.
 
 We also have some other smaller applications like a Symfony REST API for price comparison,

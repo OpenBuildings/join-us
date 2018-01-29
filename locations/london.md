@@ -1,7 +1,7 @@
 Clippings office in London
 ==========================
 
-Our headquarters are in London, United Kingdom. We are based in trendy Shoreditch, near Old Street.
+Our headquarters are in London, United Kingdom. We are in trendy Shoreditch, near Old Street.
 
 **[Exact location](https://goo.gl/maps/sev9nKRxyg82)**
 

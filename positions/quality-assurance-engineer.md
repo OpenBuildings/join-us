@@ -28,7 +28,7 @@ Responsibilities
 - Introduce new testing techniques to our unit, integration and acceptance tests.
 - Work with stakeholders to understand the UX flow for the system under test.
 - Manage 1st-level application support for stakeholders as part of the QA process.
-- Ensure product functionalities are stable when refactoring or new logic is added.
+- Ensure product functionalities are stable when refactoring or adding new logic
 - Participate in the whole agile process of product development.
 - Work closely with the dev team, product managers and key stakeholders.
 

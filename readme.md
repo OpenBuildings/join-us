@@ -1,4 +1,4 @@
-Join Clippings [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/clippings-com/clippings-com)
+Join Clippings [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/clippings-com/clippings-com) [![Build Status](https://travis-ci.org/clippings/join-us.svg?branch=master)](https://travis-ci.org/clippings/join-us)
 ==============
 
 Join a fast growing startup redesigning the design industry.

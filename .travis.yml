@@ -1,0 +1,28 @@
+sudo: false
+
+language: node_js
+node_js: 9
+
+branches:
+  only:
+    - master
+
+git:
+  depth: 5
+
+cache:
+  yarn: true
+  directories:
+    - node_modules
+
+install:
+  - yarn install
+
+before_script:
+  - sudo pip install proselint
+  - cp .proselintrc ~/
+
+script:
+  - yarn spellcheck
+  - ls ./**/*.md | grep -v node_modules | xargs proselint
+

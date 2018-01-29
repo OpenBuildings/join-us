@@ -14,7 +14,7 @@ We're looking for
 - Experience with dynamic languages such as PHP and JavaScript
 - Ability to write readable and maintainable code
 - Initiative for improving processes, codebase and implementing new techniques
-- Very good English - speaking and writing
+- Excellent English - speaking and writing
 - It would be an advantage to have experience with:
     * Symfony framework &amp; components
     * Doctrine ORM

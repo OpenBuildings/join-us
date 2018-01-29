@@ -1,0 +1,31 @@
+# markdown-spellcheck spelling configuration file
+# Format - lines beginning # are comments
+# global dictionary is at the start, file overrides afterwards
+# one word per line, to define a file override use ' - filename'
+# where filename is relative to this configuration file
+stackoverflow
+shoreditch
+Georgi
+Benkovski
+Dondukov
+Rakovski
+Behat
+PHPUnit
+Symfony
+React
+ecommerce
+startup
+MacBook
+StackShare
+Investopedia
+Silex
+jQuery
+Algolia
+MailChimp
+OmniPay
+clippings.com
+2.8m
+850k
+535k
+30-minute
+1st-level

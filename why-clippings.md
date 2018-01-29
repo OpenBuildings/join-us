@@ -1,13 +1,13 @@
 Why join Clippings?
 ===================
 
-Here are a few reasons why you would want to join our team:
+Here are some reasons why you would want to join our team:
 
 ### Mission and values
 
 Our mission is to redesign the furniture design industry.
-This sounds quite bold as most of the industry is operating offline
-and quite slow to change, but we see this as an opportunity.
+This sounds bold as most of the industry is operating offline
+and slow to change, but we see this as an opportunity.
 
 We are fulfilling our vision by creating a platform to directly connect design
 brands and individual designers with their end customers - architects, interior
@@ -21,11 +21,11 @@ Read [more about Clippings and our philosophy](https://clippings.com/about).
 
 ### The team
 
-You would be working with highly-engaged team of developers.
+You would be working with highly engaged team of developers.
 We always try to learn new technologies, incorporate the latest best practices and try new things.
 
 We realise everybody has their strong and weak sides and we would help you
-learn in various fields - from improving communication with others to latest terminal hacks.
+learn in different fields - from improving communication with others to latest terminal hacks.
 
 ### Our process
 

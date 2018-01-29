@@ -35,8 +35,17 @@ Responsibilities
 - You will work with the dev team, the Head of Product and key stakeholders.
 - You'd be able to provide feedback and suggestions on what we're building.
 
+How to apply
+------------
+
+Send us your CV via email:
+[jobs@clippings.com](mailto:jobs@clippings.com?subject=Software+Engineer+application).
+
 ---
 
-[Why Clippings](../why-clippings.md) &middot; [How to apply](../readme.md#how-to-apply) &middot; [What do we offer](../readme.md#what-do-we-offer)
+Next:
 
-[All open positions](../readme.md#open-positions)
+- [Interview process](../interview-process#readme)
+- [What do we offer](../readme.md#what-do-we-offer)
+- [Why Clippings](../why-clippings.md)
+- [All open positions](../readme.md#open-positions)

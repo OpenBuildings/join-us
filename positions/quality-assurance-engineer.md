@@ -32,8 +32,17 @@ Responsibilities
 - Participate in the whole agile process of product development.
 - Work closely with the dev team, product managers and key stakeholders.
 
+How to apply
+------------
+
+Send us your CV via email:
+[jobs@clippings.com](mailto:jobs@clippings.com?subject=Quality+Assurance+Engineer+application).
+
 ---
 
-[Why Clippings](../why-clippings.md) &middot; [How to apply](../readme.md#how-to-apply) &middot; [What do we offer](../readme.md#what-do-we-offer)
+Next:
 
-[All open positions](../readme.md#open-positions)
+- [Interview process](../interview-process#readme)
+- [What do we offer](../readme.md#what-do-we-offer)
+- [Why Clippings](../why-clippings.md)
+- [All open positions](../readme.md#open-positions)

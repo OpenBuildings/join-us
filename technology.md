@@ -6,17 +6,17 @@ Stack
 
 See our [full stack of technologies we use at Clippings on StackShare](https://stackshare.io/clippings/clippings).
 
-We mostly use PHP and JavaScript. We try to use new language features as they become available.  
+We predominantly use PHP and JavaScript. We try to use new language features as they become available.  
 New PHP code uses Silex and Symfony components.  
 New JavaScript code relies on ES6, React and jQuery.
 
 Applications
 ------------
 
-The majority of the product engineers time is spent on the [clippings.com](https://clippings.com)
+The product engineers spend the majority of their time on the [clippings.com](https://clippings.com)
 website and all of its functionalities.
 
-It consists of several different parts:
+It consists of different parts:
 
 - Front-facing e-commerce
 - Trade platform on top

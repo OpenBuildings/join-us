@@ -1,7 +1,8 @@
 Clippings office in Sofia
 =========================
 
-We have an office in Sofia, Bulgaria since the inception of the company with several teams based there.
+We have an office in Sofia, Bulgaria since the inception of the company.
+All of the product engineering roles are based there.
 
 **[Exact location](https://goo.gl/maps/3N6vWKagChG2)**
 

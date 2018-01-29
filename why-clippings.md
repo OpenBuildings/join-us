@@ -25,7 +25,7 @@ You would be working with highly engaged team of developers.
 We always try to learn new technologies, incorporate the latest best practices and try new things.
 
 We realise everybody has their strong and weak sides and we would help you
-learn in differents fields - from improving communication with others to latest terminal hacks.
+learn in different fields - from improving communication with others to latest terminal hacks.
 
 ### Our process
 

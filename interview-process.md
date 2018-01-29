@@ -4,7 +4,7 @@ Interview process at Clippings
 Applying
 --------
 
-We have a simple application process - just send us an email to [jobs@clippings.com](mailto:jobs@clippings.com).
+We have a simple application process - just send us an email at [jobs@clippings.com](mailto:jobs@clippings.com).
 Please mention the position you're applying for and attach your CV or LinkedIn profile.
 Any additional information like GitHub/StackOverflow profiles,
 particular interests in the field of programming are welcome, but optional.

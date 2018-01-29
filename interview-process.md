@@ -1,7 +1,8 @@
 Interview process at Clippings
 ==============================
 
-1. Applying
+Applying
+--------
 
 We have a simple application process - just send us an email to [jobs@clippings.com](mailto:jobs@clippings.com).
 Please mention the position you're applying for and attach your CV or LinkedIn profile.
@@ -10,7 +11,8 @@ particular interests in the field of programming are welcome, but optional.
 
 We are one of the companies with [easy application process](https://github.com/j-delaney/easy-application).
 
-1. Screening
+Screening
+---------
 
 After your application, if your profile match what we're looking for,
 we would contact you for a quick screening call.
@@ -25,7 +27,8 @@ Agenda:
 - 3-5 technical and non-technical questions
 - Next steps
 
-1. Code
+Code
+----
 
 We may ask you to send us some recent code you've written and you're proud of.
 It may be a small task or a library.
@@ -36,7 +39,8 @@ If you don't have something recent you could share, we could think of a task you
 Ideally, we would like to see well-structured object-oriented code with some information
 on what it does and why you've written it like that.
 
-1. Interview
+Interview
+---------
 
 This is the full technical interview. It would usually take from 60 to 90 minutes.
 

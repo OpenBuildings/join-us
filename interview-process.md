@@ -59,3 +59,7 @@ We don't require candidates to do whiteboard interviews or live coding.
 We don't belive that resembles real-life work or correctly represent their knowledge.
 
 We are one of [the companies hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards).
+
+---
+
+[See our open positions](../readme.md#open-positions)

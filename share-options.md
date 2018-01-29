@@ -40,3 +40,6 @@ That's why we're proud to be one of the [companies with an extended exercise win
 - [Employee Stock Options explained by Investopedia](https://www.investopedia.com/university/employee-stock-options-eso/)
 - [Forbes' Understanding Employee Equity: Every Startup's Secret Weapon](https://www.forbes.com/sites/meghancasserly/2013/03/08/understanding-employee-equity-bill-harris-sxsw)
 
+---
+
+Check out [Clippings funding history](funding.md#readme).

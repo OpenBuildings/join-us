@@ -18,6 +18,7 @@ Exercising
 Exercising is the action when you use your share options to buy stock at your preferable price and sell them at the current price in one operation.
 
 You make a profit on the difference between the stock price when you started and the current stock price when you are exercising for each share option.
+You will not need to take money out of your pocket to exercises your options.
 
 > Example:
 >

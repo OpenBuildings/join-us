@@ -39,6 +39,16 @@ How to apply?
 
 Please drop us an email at [jobs@clippings.com](mailto:jobs@clippings.com) with your CV or LinkedIn profile.
 
+Technology we use
+-----------------
+
+We try to use the best tool for the job and always welcome the introduction of
+new technologies when they make sense for our needs.
+
+Read more about [the technology we use at Clippings](technology.md).
+
+See our [tech stack on StackShare](https://stackshare.io/clippings/clippings).
+
 Locations
 ---------
 

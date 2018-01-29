@@ -16,7 +16,7 @@ Screening
 
 After your application, if your profile match what we're looking for,
 we would contact you for a quick screening call.
-We will schedule a 30-minute video call at a time of your convennice.
+We will schedule a 30-minute video call at a time of your convenience.
 
 You will receive a Google Calendar invitation with a link to a Hangouts call.
 
@@ -56,7 +56,7 @@ It may consist of questions about:
 - culture.
 
 We don't require candidates to do whiteboard interviews or live coding.
-We don't belive that resembles real-life work or correctly represent their knowledge.
+We don't believe that resembles real-life work or correctly represent their knowledge.
 
 We are one of [the companies hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards).
 

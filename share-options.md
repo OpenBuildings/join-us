@@ -15,7 +15,7 @@ It would be vested over 4 years with a 1 year cliff.
 Exercising
 ----------
 
-Exercising is the action when you use your share options to buy stock at your preferrable price and sell them at the current price in one operation.
+Exercising is the action when you use your share options to buy stock at your preferable price and sell them at the current price in one operation.
 
 You make a profit on the difference between the stock price when you started and the current stock price when you are exercising for each share option.
 

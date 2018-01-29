@@ -2,7 +2,7 @@ Software engineer
 =================
 
 We're looking for more engineers to join our product team
-and help us revolutinise the design industry.
+and help us revolutionise the design industry.
 
 We have 2 teams - _Demand_ and _Supply_ focusing on
 growth and catalogue/operations of the business respectively.

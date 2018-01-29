@@ -20,7 +20,7 @@ It consists of several different parts:
 
 - Front-facing e-commerce
 - Trade platform on top
-- Store manager for the brands to manage their catalog and orders
+- Store manager for the brands to manage their catalogue and orders
 - Admin for our internal teams
 - ReactJS front-end app for project management
 - REST API for React front-end

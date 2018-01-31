@@ -55,4 +55,4 @@ See our [tech stack on StackShare](https://stackshare.io/clippings/clippings).
 &middot;
 [What do we offer](../readme.md#what-do-we-offer)
 &middot;
-[Interview process](../interview-process#readme)
+[Interview process](../interview-process.md#readme)

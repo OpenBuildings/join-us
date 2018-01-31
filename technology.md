@@ -44,7 +44,7 @@ We are writing new code with the following principles in mind:
 
 ---
 
-[Why Clippings](../why-clippings.md)
+[Why Clippings](../why-clippings.md#readme)
 &middot;
 [What do we offer](../readme.md#what-do-we-offer)
 &middot;

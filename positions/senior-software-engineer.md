@@ -44,10 +44,10 @@ Send us your CV via email:
 
 ---
 
-[Interview process](../interview-process#readme)
+[Interview process](../interview-process.md#readme)
 &middot;
 [What do we offer](../readme.md#what-do-we-offer)
 &middot;
-[Why Clippings](../why-clippings.md)
+[Why Clippings](../why-clippings.md#readme)
 &middot;
 [All open positions](../readme.md#open-positions)

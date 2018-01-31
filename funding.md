@@ -9,8 +9,8 @@ Clippings funding history since its founding to the latest venture capital round
 
 ---
 
-[Team structure](../team-structure.md#readme)
+[Team structure](team-structure.md#readme)
 &middot;
-[Why Clippings](../why-clippings.md)
+[Why Clippings](why-clippings.md)
 &middot;
-[Open positions](../readme.md#open-positions)
+[Open positions](readme.md#open-positions)

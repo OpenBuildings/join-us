@@ -53,6 +53,6 @@ See our [tech stack on StackShare](https://stackshare.io/clippings/clippings).
 
 [Open positions](readme.md#open-positions).
 &middot;
-[What do we offer](../readme.md#what-do-we-offer)
+[What do we offer](readme.md#what-do-we-offer)
 &middot;
-[Interview process](../interview-process.md#readme)
+[Interview process](interview-process.md#readme)

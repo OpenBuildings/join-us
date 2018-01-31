@@ -62,4 +62,8 @@ We are one of [the companies hiring without whiteboards](https://github.com/pote
 
 ---
 
-[See our open positions](../readme.md#open-positions)
+[What do we offer](../readme.md#what-do-we-offer)
+&middot;
+[Why Clippings](../why-clippings.md)
+&middot;
+[All open positions](../readme.md#open-positions)

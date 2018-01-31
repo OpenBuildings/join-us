@@ -43,9 +43,10 @@ Send us your CV via email:
 
 ---
 
-Next:
-
-- [Interview process](../interview-process#readme)
-- [What do we offer](../readme.md#what-do-we-offer)
-- [Why Clippings](../why-clippings.md)
-- [All open positions](../readme.md#open-positions)
+[Interview process](../interview-process#readme)
+&middot;
+[What do we offer](../readme.md#what-do-we-offer)
+&middot;
+[Why Clippings](../why-clippings.md)
+&middot;
+[All open positions](../readme.md#open-positions)

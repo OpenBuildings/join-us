@@ -41,3 +41,11 @@ We are writing new code with the following principles in mind:
 - [Framework-agnostic code](https://matthiasnoback.nl/2014/06/how-to-create-framework-independent-controllers/)
 - [Separation of concerns](https://en.m.wikipedia.org/wiki/Separation_of_concerns)
 - [Domain-driven design](https://en.m.wikipedia.org/wiki/Domain-driven_design)
+
+---
+
+[Why Clippings](../why-clippings.md)
+&middot;
+[What do we offer](../readme.md#what-do-we-offer)
+&middot;
+[Open positions](../readme.md#open-positions)

@@ -43,4 +43,8 @@ That's why we're proud to be one of the [companies with an extended exercise win
 
 ---
 
-Check out [Clippings funding history](funding.md#readme).
+[Clippings funding history](funding.md#readme).
+&middot;
+[What do we offer](../readme.md#what-do-we-offer)
+&middot;
+[Open positions](../readme.md#open-positions)

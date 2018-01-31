@@ -69,3 +69,11 @@ The table below represent the different roles we have in our product team and th
         </tr>
     </tbody>
 </table>
+
+---
+
+[What do we offer](../readme.md#what-do-we-offer)
+&middot;
+[Why Clippings](../why-clippings.md)
+&middot;
+[Open positions](../readme.md#open-positions)

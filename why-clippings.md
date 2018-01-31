@@ -45,7 +45,7 @@ and [https://github.com/openbuildings](https://github.com/openbuildings).
 We try to use the best tool for the job and always welcome the introduction of
 new technologies when they make sense for our needs.
 
-Read more about [the technology we use at Clippings](technology.md).
+Read more about [the technology we use at Clippings](technology.md#readme).
 
 See our [tech stack on StackShare](https://stackshare.io/clippings/clippings).
 

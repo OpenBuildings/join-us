@@ -10,8 +10,6 @@ Grant
 
 We will grant you a stock option grant from our UK-based company when you start at Clippings (this is also valid for engineers in Sofia, Bulgaria). This gives you the ability to later exercise the options at the share price of the company when you have started.
 
-The options vest over 4 years with a 1 year cliff.
-
 Exercising
 ----------
 

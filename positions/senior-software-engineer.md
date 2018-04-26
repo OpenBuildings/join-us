@@ -33,7 +33,7 @@ Responsibilities
 - You will refactor the codebase to increase flexibility and maintainability.
 - You will improve the different products, tools and integrations of the Clippings platform.
 - You will participate in the whole sprint process for product development.
-- You will work with the dev team, the Head of Product and key stakeholders.
+- You will work with the dev team, the product managers and key stakeholders.
 - You'd be able to provide feedback and suggestions on what we're building.
 
 How to apply

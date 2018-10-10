@@ -38,8 +38,7 @@ Responsibilities
 How to apply
 ------------
 
-Send us your CV via email:
-[jobs@clippings.com](mailto:jobs@clippings.com?subject=Software+Engineer+application).
+Please [send us your CV or LinkedIn profile here](https://hire.withgoogle.com/public/jobs/clippingscom/view/P_AAAAABkAABCH4ZcRQ2Wtk9?trackingTag=gitHub)!.
 
 ---
 

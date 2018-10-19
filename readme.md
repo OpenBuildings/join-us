@@ -31,7 +31,7 @@ What do we offer?
 - Join a world-class tech team and play a key role in a fast-growing start-up
 - Exceptional transparency, freedom and the opportunity to develop your skills/knowledge
 - Competitive salary &amp; [share options](share-options.md#readme)
-- Flexible working hours &amp; possibility for remote work
+- Flexible working hours &amp; occasional remote work
 - Top equipment: [Apple MacBook Pro](https://www.apple.com/macbook-pro/), [Herman Miller chair](http://store.hermanmiller.com/office/office-chairs/mirra-2-task-chair/1453.html)
 
 How to apply?

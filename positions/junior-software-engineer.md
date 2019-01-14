@@ -4,13 +4,13 @@ Junior Software Engineer
 We're looking for more engineers to join our product team
 and help us revolutionise the design industry.
 
-We have 2 teams - _Demand_ and _Supply_ focusing on
-growth and catalogue/operations of the business respectively.
+We have 4 teams - _SaaS_, _Catalogue/Enterprise_ and _Operations_ focusing on
+different areas of the business.
 
 We're looking for
 -----------------
 
-- 2 &ndash; 4 years of experience as a developer with web related technologies
+- 0-2 years of experience as a developer with web related technologies
 - Experience with dynamic languages such as PHP and JavaScript
 - Ability to write readable and maintainable code
 - Initiative for improving processes, codebase and implementing new techniques

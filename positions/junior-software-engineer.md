@@ -1,4 +1,4 @@
-Junior software engineer
+Junior Software Engineer
 =================
 
 We're looking for more engineers to join our product team

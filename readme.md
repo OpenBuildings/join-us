@@ -21,7 +21,7 @@ Why Clippings?
 
 Clippings is using technology to change how designers discover, manage and purchase interior design.
 We're revolutionising the furniture industry by providing new tools and processes to brands, architects and interior designers.
-We are based in London/Sofia and [we've closed our &pound;2.8m Series A](funding.md#readme).
+We are based in London/Sofia and [we've closed our &pound;15.4m Series B](funding.md#readme).
 
 [Read more why to join Clippings.](why-clippings.md#readme)
 

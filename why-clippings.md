@@ -15,7 +15,7 @@ designers and design-conscious consumers. We skip the chain of retailers,
 distributors and dealers. By empowering designers we support moving the industry further.
 
 We are a small startup, but aim high and grow quickly.
-We've raised £2.8m Series A to help us with our mission to redesign the design industry.
+We've raised [£15.4m Series B](funding.md#readme) to help us with our mission to redesign the design industry.
 
 Read [more about Clippings and our philosophy](https://clippings.com/about).
 
